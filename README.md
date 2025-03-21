@@ -1,58 +1,87 @@
-## Exploring Data-Driven Solutions
+## Exploring Social Impact Through Interdisciplinary Practice
 
-I am an industrial engineer with a data-driven approach, currently undergoing a Digital Transformation traineeship at the [Digital Society School](https://digitalsocietyschool.org/) in Amsterdam, Netherlands. My goal is to enhance my expertise in data science and digital transformation, leveraging data to drive innovation and informed decision-making.
+I am a dynamic and interdisciplinary professional with a background in social sciences, education, and customer-focused roles. My expertise spans research, qualitative analysis, teaching, and cultural projects. I thrive in roles that involve leadership, adaptability, and digital proficiency, with a strong passion for fostering cultural understanding, knowledge sharing, and impactful community engagement.
 
 ## Experience
 
-I have experience as a Linguistic Data Analyst at the [Academy of Persian Language and Literature](https://apll.ir/), where I worked with extensive terminological datasets to enhance workflow efficiency. As a Terminology Expert at the [Research Center of Terminology Studies](https://apll.ir/rcts/), I supported research and decision-making through data-driven approaches in terminology management.
+**Enterprise Architecture Specialist**  
+*Golsoft Company, Tehran, Iran — 2022–2024*  
+Designed and optimized organizational structures. Ensured seamless integration of technical solutions with business goals. Conducted systems analysis to improve workflows and align digital strategies with corporate objectives.
 
-Additionally, I have worked as an editor at [Goman Publication](https://gomanbook.com/), contributing to various translations and publications. As the Chief Operating Officer at [Lahn-e Digar](https://www.instagram.com/lahnedigar/), I led operations, implemented Scrum methodology, and established a recording studio for high-quality audiobook production.
+**Freelance Translator (Academic & Literary)**  
+*Tehran, Iran — 2019–Present*  
+Translated academic papers, literary works, and cultural texts with precision and contextual sensitivity. Facilitated effective cross-cultural communication.
+
+**Editorial Member & Researcher**  
+*Contemporary Iranian Cultural History Project, Tehran, Iran — 2018–Present*  
+Contributed to research in cultural studies, anthropology, and socio-political discourse. Co-edited critical publications on cultural transformation in Iran.
+
+**Social Science Teacher (Children & Adolescents)**  
+*Hoda High School & Alawi High School, Tehran, Iran — 2020–2024*  
+Developed interactive lesson plans. Promoted critical thinking, curiosity, and inclusivity in the classroom for younger learners.
+
+**Market Expert**  
+*CoinIran, Tehran, Iran — 2021–2023*  
+Analyzed consumer behavior and economic trends. Generated insights into market psychology for financial strategy and perception alignment.
+
+**Data Collection and Analysis Expert**  
+*Tehran Municipality, Tehran, Iran — 2017–2018*  
+Led urban data analysis projects. Informed city policy by collecting and processing large-scale datasets.
+
+**Social Work Researcher**  
+*Zi Ba Mehr Institute, Tehran, Iran — 2021–2023*  
+Conducted qualitative evaluations of social welfare initiatives. Produced strategic reports to support policymaking and advocacy.
+
+**Teacher Assistant**  
+*University of Tehran, Tehran, Iran — 2018–2019*  
+Assisted in curriculum development and academic research. Mentored students in anthropological methodology.
 
 ## Education
 
-- **Postgraduate Traineeship in Digital Transformation, [HvA](https://www.amsterdamuas.com/)**  
-  February 2025 - Now
+- **MA in Anthropology, [University of Tehran](https://ut.ac.ir/en)**  
+  *2017–2020*  
+  Dissertation: "Women and Femininity in the Rituals of Yāresān"
 
-- **MA in Terminology, [RCTS](https://apll.ir/rcts/)**  
-  September 2016 - September 2020  
-  The academic focus closely parallels Linguistics programs. Guided by [Mohammad Dabir-Moghaddam](https://en.wikipedia.org/wiki/Mohammad_Dabir_Moghaddam), I completed a Master's thesis delving into the intricate analysis of modality and polarity systems in Persian scientific discourse, utilizing systemic functional grammar as the analytical lens.
-
-- **BS in Industrial Engineering, [KIAU](https://karaj.iau.ir/en)**  
-  September 2010 - October 2015  
-  My studies have covered a diverse range of topics including operations research, production planning and control, quality management, probability theory, and statistical analysis.
+- **BS in Civil Engineering, [Shahrood University of Technology](https://shahroodut.ac.ir/en/)**  
+  *Completed 2016*  
+  National entrance rank: 3100 out of over 300,000 applicants.
 
 ## Certifications
 
-- **Dive into Data Science**  
-  Provider: [Dayche](https://dayche.com/)  
-  Completion Date: September 2024  
-  Instructor: [Mohammad Rouzbeh](https://www.linkedin.com/in/mohammad-rouzbeh-01b8a378/)  
-  [Credential](https://dayche.com/certification/1277E48A2-31234F3-85059/)
+- **Qualitative Research Methods**  
+  Research Institute of Humanities and Cultural Studies
 
-- **Python**  
-  Provider: [Kaggle](https://www.kaggle.com)  
-  Completion Date: February 2024  
-  Instructor: [Colin Morris](https://www.kaggle.com/colinmorris)  
-  [Credential](https://www.kaggle.com/learn/certification/mhsenhshemi/python)
+- **Content Analysis**  
+  Research Institute of Humanities and Cultural Studies
 
-- **Intro to Programming**  
-  Provider: [Kaggle](https://www.kaggle.com)  
-  Completion Date: February 2024  
-  Instructor: [Alexis Cook](https://www.kaggle.com/alexisbcook)  
-  [Credential](https://www.kaggle.com/learn/certification/mhsenhshemi/intro-to-programming)
-
-- **Applied Terminology**  
-  Provider: Academy of Persian Language and Literature  
-  Completion Date: October 2017  
-  Instructor: [Christian Galinski](http://www.infoterm.info/about_us/infoterm_staff.php)
-
-## Publication
-
-- Hashemi, M. & Nikrafat, Sh. (2023). Co-translated segment of "Un homme qui dort (A Man Asleep)" by George Perec. Published in [Kenareh Magazine](https://gomanbook.com/product/kenarehmag/), 1, pp. 151-159. Tehran, Iran.
+- **InDesign Certificate**  
+  University of Tehran
 
 ## Languages
 
-- English: Professional Working Proficiency
-- Persian: Native
-- Turkish: Limited Working Proficiency
-- Dutch: Elementary
+- **Persian:** Native  
+- **English:** C1 (Listening, Reading, Writing, Speaking)  
+- **Arabic:** B1  
+- **German:** A2
+
+## Awards
+
+- **Brilliant Talent Distinction** — MA Program, University of Tehran (2019)
+- **Best Poet**, Shahavar Festival — Awarded in 2007 and 2008
+
+## Creative Work
+
+- Poet (2010–Present)  
+- Literary Translator (2014–2017)  
+- Setar Player (2014–Present)  
+- Singing Teacher (2016–2020)
+
+## Digital Skills
+
+Design Thinking • Leadership • Critical Thinking • Emotional Intelligence • Content Creation • Microsoft Office • InDesign • SPSS • Adaptability • Scrum • Process Optimization • Operations Research
+
+## Volunteering
+
+- **Teacher of Afghan Children**, Boomrang NGO — 2020–Present
+- **Counselor for Female-Headed Households**, Star NGO — 2021–Present
+- **Secretary of Literary Society**, Shahrood University — 2011–2012
